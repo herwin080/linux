@@ -4,7 +4,6 @@ Script linux
 php -v
 
 sudo dpkg --remove php74p-fpm
-
 sudo dpkg --remove php74-fpm
 
 sudo apt --fix-broken install
